@@ -6,6 +6,7 @@ displays all such movies in an html page which is automatically opened in the de
 ## How to run the project
 
 To run the code:
+
     1. Download the source code in your computer.
     2. Navigate to the folder in which you downloaded the repository.
     3. Locate entertainment_center.py and edit the constants API_KEY, username and password of your choice.
@@ -18,6 +19,7 @@ your computer.
 
 The project requires installation of requests and tmdbsimple modules. 
 You can install these requirements using pip like:
+
     1. pip install requests
     2. pip install tmdbsimple
 
