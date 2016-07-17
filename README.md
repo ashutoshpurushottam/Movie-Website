@@ -25,7 +25,7 @@ You can install these requirements using pip like:
 
 ## Authors
 
-Ashutosh Purushottam
+[Ashutosh Purushottam](https://github.com/ashutoshpurushottam/)
 
 ## License
 
